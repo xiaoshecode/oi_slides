@@ -8,7 +8,7 @@ ppt模板在 [这个GitHub仓库](https://github.com/Trinkle23897/THU-Beamer-The
 
 | 时间         | 链接                                                         | Others                                          |
 | ------------ | ------------------------------------------------------------ | ----------------------------------------------- |
-| 2016/6/20    | [IDA*.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/IDA*.pdf), [hash.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/hash.pdf), [DLX.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/DLX.pdf) | 校内                                            |
+| 2016/6/20    | [IDA-star.pdf](IDA-star.pdf), [hash.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/hash.pdf), [DLX.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/DLX.pdf) | 校内                                            |
 | 2016/6/24    | [DP总结.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/DP%E6%80%BB%E7%BB%93.pdf) | 校内                                            |
 | 2016/6/30    | [数学.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/%E6%95%B0%E5%AD%A6.pdf) | 校内                                            |
 | 2016/7/15    | [DP优化.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/DP%E4%BC%98%E5%8C%96.pdf) | NOIP夏令营                                      |
@@ -23,3 +23,12 @@ ppt模板在 [这个GitHub仓库](https://github.com/Trinkle23897/THU-Beamer-The
 | 2017/12/5    | [THUtraining2017-dsa.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/THUtraining2017-dsa.pdf) | 清华集训2017题解                                |
 
 Update: 加了个算法模板合集，一共38页的PDF: [algo.pdf](https://github.com/Trinkle23897/oi_slides/blob/master/algo.pdf)
+
+## 维护与在线文档
+
+本仓库是 [Trinkle23897/oi_slides](https://github.com/Trinkle23897/oi_slides) 的 Fork，保留上游来源、目录约定及许可证。
+
+- [在线维护文档](https://xiaoshecode.github.io/xiaoshecode/repos/oi_slides/)
+- [仓库维护说明](MAINTENANCE.md)：用途、环境、目录结构、检查结果和待验证事项。
+
+2026-10-30 的检查范围以维护说明为准；语法检查通过不代表完整构建、模型训练或硬件验证通过。
